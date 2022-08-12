@@ -42,4 +42,4 @@ Our shell has support for the following built-in commands:
 | help [built-in]     | Read documentation for a built-in.                                                        |
 
 
-Code written by [Nelson Osagie]([https://github.com/Nelgit007]) and [N](https://github.com/nnonye).
+Code written by [Nelson Osagie]([https://github.com/Nelgit007]) and [Theophilus Glory](https://github.com/nnonye).
